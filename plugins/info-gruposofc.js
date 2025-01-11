@@ -11,21 +11,21 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+1.- www.instagram.com/valu._16
 
-2.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+2.- www.instagram.com/valu._16
 
-3.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+3.- www.instagram.com/valu._16
 
-4.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+4.- www.instagram.com/valu._16
 
-> KillzN Store OFC :
+> Valentina Store OFC :
 
-1.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+1.- www.instagram.com/valu._16
 
-2.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC`.trim();
+2.- www.instagram.com/valu._16`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/KillzN`},
+    'document': {url: `https://github.com/Valentina`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -34,7 +34,7 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/KillzND',
+        'mediaUrl': 'https://github.com/ValentinaD',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,
